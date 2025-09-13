@@ -114,4 +114,6 @@ Solicitudes: enviar propuesta a `contacto@diversotex.com` (asunto: Colaboración
 
 ## ✨ Claim
 
-> “Celebramos la diversidad. Vestimos el
+> “Celebramos la diversidad. Vestimos el cambio.”
+
+---
